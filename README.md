@@ -12,3 +12,4 @@ This project demonstrates the use of `.gitignore` and `README.md` in a git repos
 ## Usage
 This is a simple project to practise ignoring unnessary files and writing a project README.md
 
+
